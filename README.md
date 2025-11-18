@@ -2,6 +2,6 @@
 Publication DOI: [https://doi.org/10.1002/1878-0261.70164](https://doi.org/10.1186/s13059-025-03623-5)
 
 The bulk RNA-Seq folder contains the code for the analyses of bulk cohorts. The code for single-cell RNAseq datasets is given in 2 folders:
-- Discovery cohort, Chen et al. (REF). Data was downloaded from GEO: GSE141445, from Supplementary file: "GSM4203181_data.raw.matrix.txt.gz"
+- Discovery cohort, Chen et al. (DOI: 10.1038/s41556-020-00613-6). Data was downloaded from GEO: GSE141445, from Supplementary file: "GSM4203181_data.raw.matrix.txt.gz"
 - Validation cohort, generated in this study.
 
